@@ -1,0 +1,45 @@
+C:\Users\guilh\source\repos\WebApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\guilh\source\repos\WebApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\guilh\source\repos\WebApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\guilh\source\repos\WebApp\Business\bin\Debug\net6.0\Data.dll
+C:\Users\guilh\source\repos\WebApp\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\guilh\source\repos\WebApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\ocris\Desktop\WebApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\ocris\Desktop\WebApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\ocris\Desktop\WebApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\ocris\Desktop\WebApp\Business\bin\Debug\net6.0\Data.dll
+C:\Users\ocris\Desktop\WebApp\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\ocris\Desktop\WebApp\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\bin\Debug\net6.0\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Business\obj\Debug\net6.0\ref\Business.dll

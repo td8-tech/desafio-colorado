@@ -1,0 +1,51 @@
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Services.dll
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.dll
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Business.dll
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Data.dll
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Business.pdb
+C:\Users\guilh\source\repos\WebApp\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\guilh\source\repos\WebApp\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Services.dll
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Business.dll
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Data.dll
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Business.pdb
+C:\Users\ocris\Desktop\WebApp\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.dll
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\ocris\Desktop\WebApp\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Services.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Business.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Business.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Services\obj\Debug\net6.0\ref\Services.dll

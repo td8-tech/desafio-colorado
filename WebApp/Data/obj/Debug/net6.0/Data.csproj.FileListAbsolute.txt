@@ -1,0 +1,38 @@
+C:\Users\guilh\source\repos\WebApp\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\guilh\source\repos\WebApp\Data\bin\Debug\net6.0\Data.dll
+C:\Users\guilh\source\repos\WebApp\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.dll
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\guilh\source\repos\WebApp\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\ocris\Desktop\WebApp\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\ocris\Desktop\WebApp\Data\bin\Debug\net6.0\Data.dll
+C:\Users\ocris\Desktop\WebApp\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.dll
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\ocris\Desktop\WebApp\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\bin\Debug\net6.0\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\guilh\Desktop\WebApp (4)\WebApp\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
